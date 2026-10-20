@@ -30,7 +30,7 @@ The same platform serves the people using agentic tools and AI apps, and the tea
 
 | Project | What it does |
 |---|---|
-| [**Klique Idle GPU Dashboard**](https://github.com/klique-ai/klique-idle) | Find out how much of your GPU capacity sits idle, and what it's worth in tokens and dollars. An open-source collector for NVIDIA GPU clusters on Kubernetes, Slurm, PBS and bare metal. |
+| [**Klique Idle GPU Dashboard**](https://github.com/klique-ai/idle-gpu-dashboard) | Find out how much of your GPU capacity sits idle, and what it's worth in tokens and dollars. An open-source collector for NVIDIA GPU clusters on Kubernetes, Slurm, PBS and bare metal. |
 
 ## Learn more
 
